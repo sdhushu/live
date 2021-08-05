@@ -1,0 +1,86 @@
+
+.icon {
+	/* width: 20%; */
+	width: 100rpx;
+	height: 100rpx;
+	/* height: 180rpx; */
+	margin-left: 30rpx;
+	margin-top: 40rpx;
+}
+.content {
+	width: 100%;
+	height: 100%;
+}
+.banner {
+	width: 100%;
+	height: 400rpx;
+	background-color: #007AFF;
+	text-align: center;
+}
+.body {
+	width: 100%;
+	height: 800rpx;
+	border-radius: 80rpx;
+	background-color: #FFFFFF;
+	margin-top: -80rpx;
+}
+.index {
+	width: 100%;
+	height: 200rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	/* background-color: #3F536E; */
+}
+.indexselect {
+	height: 80rpx;
+}
+.indextext {
+	font-size: 80rpx;
+	margin-left: 40rpx;
+	margin-top: 25rpx;
+}
+.indexhr {
+	width: 75rpx;
+	height: 30rpx;
+	border-radius: 10rpx;
+	background-color: #00007f;
+	margin-top: -60rpx;
+	margin-left: 40rpx;
+}
+.uni-input {
+	height: 50px;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	text-align: center;
+	font-size: 50rpx;
+	margin-left: 60rpx;
+	margin-top: 40rpx;
+}
+.icons {
+	width: 100%;
+	height: 200rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.pic {
+	width: 30%;
+	height: 40%;
+}
+.hot {
+	width: 100%;
+	height: 600rpx;
+}
+.list {
+	width: 90%;
+	height: 600rpx;
+	background-color: #C0C0C0;
+	margin-left: 5%;
+	margin-top: 20rpx;
+}
+

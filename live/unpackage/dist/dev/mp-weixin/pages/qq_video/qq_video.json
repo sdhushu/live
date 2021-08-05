@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tarbar": "/components/qq_index/qq_tarbars"
+  }
+}

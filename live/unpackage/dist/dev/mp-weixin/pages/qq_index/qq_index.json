@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tarbar": "/components/qq_index/qq_tarbars",
+    "titles": "/components/qq_index/qq_titles",
+    "play": "/components/qq_index/play",
+    "tuijian": "/components/qq_index/tuijian",
+    "musichall": "/components/qq_index/music_hall"
+  }
+}
